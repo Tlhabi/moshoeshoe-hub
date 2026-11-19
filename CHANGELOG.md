@@ -31,3 +31,4 @@ Format: `YYYY-MM-DD | what changed | reason`
 2026-11-19 | Changed learner streaks to count days with a correctly answered activity rather than app launches | prevent overstated learning activity
 2026-11-19 | Replaced synthetic teacher drill-down scores and support flags with profile-scoped answer events, real subject accuracy, and explicit no-data/error states | Leseli Phase 1 hard rule
 2026-11-19 | Replaced identifiable community photos in the app with neutral illustrated cards; excluded local photos, generated deliverables, and unverified project reports from public source control | privacy and publication review
+2026-11-19 | Added explicit EAS upload exclusions for local photos, reports, generated assets and Git metadata; linked the app config to its EAS project | preview APK deployment
